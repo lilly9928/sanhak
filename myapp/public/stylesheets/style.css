@@ -520,7 +520,7 @@ a img.aligncenter {
 	border-radius: 50px;
     opacity: 0;
     margin-left: -10px;
-    background-color: #0174DF;
+    background-color: #ffffff;
     -webkit-transform: translateY(0px);
     transform: translateY(0px);
     transition: all 900ms ease;
@@ -543,7 +543,7 @@ a img.aligncenter {
 	border: none !important;
     opacity: 0;
     margin-right: -11px;
-    background-color: #0174DF;
+    background-color: #ffffff;
     transition: all 900ms ease;
     -webkit-transition: all 900ms ease;
     -ms-transition: all 900ms ease;
